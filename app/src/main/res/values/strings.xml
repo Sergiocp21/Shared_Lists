@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Shared  Lists</string>
+    <string name="placeHolderTitle">Escribe un título…</string>
 </resources>
