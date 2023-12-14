@@ -1,6 +1,7 @@
 # Work in progress
 
-# ¿What is Shared List?
+# What is Shared List?
+
 Shared List is an Android App where you could invite some friends and family members to your own list so everyone can see or modify it.
 
 ## Use cases
